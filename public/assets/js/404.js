@@ -1,3 +1,4 @@
+// FILE taken from bootcamp course, week 12, ac 28 (mini-project)
 // JS for the 404 page
 const goBackBtn = document.getElementById('back');
 

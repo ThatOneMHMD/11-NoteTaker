@@ -1,3 +1,4 @@
+/* FILE taken from bootcamp course, week 12, ac 28 (mini-project) */
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -920,7 +921,7 @@ a:hover {
 
 /* BACKGROUND UTILS */
 .bg-primary {
-  background-color: #2d3e50 !important;
+  background-color: #0DCAF0 !important;
 }
 
 .bg-info {
